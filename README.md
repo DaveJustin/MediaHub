@@ -1,5 +1,5 @@
 # MediaHub
-Moviehub is a simple, web-based system that is generally ideal for any movie, tv show, anime and music recommendation websites.
+Mediahub is a simple, web-based system that is generally ideal for any movie, tv show, anime and music recommendation websites.
 
 **Integration of OMDB, TV Maze, Jikan, TheAudioDB, Lyrics.ovh and Youtube API.
 **![image](https://user-images.githubusercontent.com/88584442/168036438-ed9255ef-c63c-4a9e-baa6-53d2ca0e9ab3.png)
